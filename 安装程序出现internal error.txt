@@ -1,0 +1,1 @@
+﻿打开任务管理器，结束explorer.exe任务，然后在左上角文件下找到c：\windows\explorer.exe并以管理员身份运行即可。
